@@ -1,0 +1,578 @@
+{
+    "polylines": [
+        {
+            "path": [
+                {
+                    "x": 4, 
+                    "y": 1.5
+                }, 
+                {
+                    "x": -5, 
+                    "y": 6
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": 4, 
+                    "y": 1.5
+                }, 
+                {
+                    "x": 0, 
+                    "y": 7
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": 4, 
+                    "y": 1.5
+                }, 
+                {
+                    "x": 4, 
+                    "y": 11
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -5, 
+                    "y": 6
+                }, 
+                {
+                    "x": 4, 
+                    "y": 11
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -5, 
+                    "y": 6
+                }, 
+                {
+                    "x": -10, 
+                    "y": 12
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -5, 
+                    "y": 6
+                }, 
+                {
+                    "x": -4, 
+                    "y": 14
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -4, 
+                    "y": 14
+                }, 
+                {
+                    "x": -23, 
+                    "y": 17
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -4, 
+                    "y": 14
+                }, 
+                {
+                    "x": -18, 
+                    "y": 19
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -4, 
+                    "y": 14
+                }, 
+                {
+                    "x": -8, 
+                    "y": 22
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -4, 
+                    "y": 14
+                }, 
+                {
+                    "x": 4, 
+                    "y": 21
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -4, 
+                    "y": 14
+                }, 
+                {
+                    "x": -21, 
+                    "y": 27
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -10, 
+                    "y": 12
+                }, 
+                {
+                    "x": -8, 
+                    "y": 22
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -8, 
+                    "y": 22
+                }, 
+                {
+                    "x": -10, 
+                    "y": 29
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -8, 
+                    "y": 22
+                }, 
+                {
+                    "x": -5, 
+                    "y": 27
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": 4, 
+                    "y": 21
+                }, 
+                {
+                    "x": 6, 
+                    "y": 28
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": 6, 
+                    "y": 28
+                }, 
+                {
+                    "x": 14, 
+                    "y": 30
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": 6, 
+                    "y": 28
+                }, 
+                {
+                    "x": 0, 
+                    "y": 36
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": 6, 
+                    "y": 28
+                }, 
+                {
+                    "x": 6, 
+                    "y": 34
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": 6, 
+                    "y": 34
+                }, 
+                {
+                    "x": 6, 
+                    "y": 39
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": 6, 
+                    "y": 39
+                }, 
+                {
+                    "x": 6, 
+                    "y": 46
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": 6, 
+                    "y": 39
+                }, 
+                {
+                    "x": -6, 
+                    "y": 41
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -6, 
+                    "y": 41
+                }, 
+                {
+                    "x": -1, 
+                    "y": 43
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -6, 
+                    "y": 41
+                }, 
+                {
+                    "x": -10, 
+                    "y": 44
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": 4, 
+                    "y": 21
+                }, 
+                {
+                    "x": -12, 
+                    "y": 38
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -12, 
+                    "y": 38
+                }, 
+                {
+                    "x": -10, 
+                    "y": 44
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -12, 
+                    "y": 38
+                }, 
+                {
+                    "x": -21, 
+                    "y": 43
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -21, 
+                    "y": 27
+                }, 
+                {
+                    "x": -21, 
+                    "y": 35
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -21, 
+                    "y": 35
+                }, 
+                {
+                    "x": -21, 
+                    "y": 43
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -21, 
+                    "y": 43
+                }, 
+                {
+                    "x": -21, 
+                    "y": 52
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -29, 
+                    "y": 31
+                }, 
+                {
+                    "x": -21, 
+                    "y": 35
+                }
+            ]
+        }, 
+        {
+            "path": [
+                {
+                    "x": -4, 
+                    "y": 14
+                }, 
+                {
+                    "x": -29, 
+                    "y": 29
+                }, 
+                {
+                    "x": -29, 
+                    "y": 31
+                }
+            ]
+        }
+    ], 
+    "topics": {
+        "absolute-value": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "absolute-value", 
+            "standalone_title": "Absolute value", 
+            "x": 0, 
+            "y": 6
+        }, 
+        "addition-subtraction": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "addition-subtraction", 
+            "standalone_title": "Addition and subtraction", 
+            "x": 4, 
+            "y": 1.5
+        }, 
+        "algebra-functions": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "algebra-functions", 
+            "standalone_title": "Functions", 
+            "x": 0, 
+            "y": 36
+        }, 
+        "angles": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "angles", 
+            "standalone_title": "Angles", 
+            "x": -21, 
+            "y": 27
+        }, 
+        "basic-geometry": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "basic-geometry", 
+            "standalone_title": "Basic geometry", 
+            "x": -29, 
+            "y": 31
+        }, 
+        "calculus": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "calculus", 
+            "standalone_title": "Calculus", 
+            "x": -21, 
+            "y": 52
+        }, 
+        "complex-numbers": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "complex-numbers", 
+            "standalone_title": "Complex numbers", 
+            "x": -10, 
+            "y": 44
+        }, 
+        "conic-sections": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "conic-sections", 
+            "standalone_title": "Conic sections", 
+            "x": -1, 
+            "y": 43
+        }, 
+        "decimals": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "decimals", 
+            "standalone_title": "Decimals", 
+            "x": 4, 
+            "y": 11
+        }, 
+        "equation-of-a-line": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "equation-of-a-line", 
+            "standalone_title": "Equation of a line", 
+            "x": 6, 
+            "y": 34
+        }, 
+        "exponents-radicals": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "exponents-radicals", 
+            "standalone_title": "Exponents and radicals", 
+            "x": 4, 
+            "y": 21
+        }, 
+        "factors-multiples": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "factors-multiples", 
+            "standalone_title": "Factors and multiples", 
+            "x": -10, 
+            "y": 12
+        }, 
+        "fractions": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "fractions", 
+            "standalone_title": "Fractions", 
+            "x": -8, 
+            "y": 22
+        }, 
+        "linear-equations-and-inequalitie": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "linear-equations-and-inequalitie", 
+            "standalone_title": "Graphing linear equations and inequalities", 
+            "x": 6, 
+            "y": 39
+        }, 
+        "multiplication-division": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "multiplication-division", 
+            "standalone_title": "Multiplication and division", 
+            "x": -5, 
+            "y": 6
+        }, 
+        "order-of-operations": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "order-of-operations", 
+            "standalone_title": "Order of operations", 
+            "x": -4, 
+            "y": 14
+        }, 
+        "percents": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "percents", 
+            "standalone_title": "Percents", 
+            "x": -5, 
+            "y": 27
+        }, 
+        "polynomials-and-quadratics": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "polynomials-and-quadratics", 
+            "standalone_title": "Polynomials and quadratics", 
+            "x": -6, 
+            "y": 41
+        }, 
+        "probability": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "probability", 
+            "standalone_title": "Probability", 
+            "x": -18, 
+            "y": 19
+        }, 
+        "pythagorean-theorem": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "pythagorean-theorem", 
+            "standalone_title": "Pythagorean theorem", 
+            "x": -12, 
+            "y": 38
+        }, 
+        "rates-and-ratios": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "rates-and-ratios", 
+            "standalone_title": "Rates and ratios", 
+            "x": -10, 
+            "y": 29
+        }, 
+        "solving-linear-equations-and-inequalities": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "solving-linear-equations-and-inequalities", 
+            "standalone_title": "Solving linear equations and inequalities", 
+            "x": 6, 
+            "y": 28
+        }, 
+        "statistics": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "statistics", 
+            "standalone_title": "Statistics", 
+            "x": -23, 
+            "y": 17
+        }, 
+        "systems-of-eq-and-ineq": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "systems-of-eq-and-ineq", 
+            "standalone_title": "Systems of equations and inequalities", 
+            "x": 6, 
+            "y": 46
+        }, 
+        "telling-time": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "telling-time", 
+            "standalone_title": "Telling time", 
+            "x": 11, 
+            "y": 3.5
+        }, 
+        "triangles": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "triangles", 
+            "standalone_title": "Triangles", 
+            "x": -21, 
+            "y": 35
+        }, 
+        "trigonometry": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "trigonometry", 
+            "standalone_title": "Trigonometry", 
+            "x": -21, 
+            "y": 43
+        }, 
+        "vectors": {
+            "icon_url": "/images/power-mode/badges/default-40x40.png", 
+            "id": "vectors", 
+            "standalone_title": "Vectors", 
+            "x": 14, 
+            "y": 30
+        }
+    }
+}

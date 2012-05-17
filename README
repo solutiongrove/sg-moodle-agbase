@@ -1,0 +1,25 @@
+A local plugin for providing tools to integrate Moodle with Khan Academy clones
+
+This is a beta release and has been tested on Moodle 2.1.1.
+
+This serves as a base plugin that exposes some parameters or functionality
+for other Moodle-KA clone plugins to use.  This is not of much use if used on
+its own.
+
+Copy the agbase directory under your moodle install's local directory.
+Once installed and enabled there is an administration link present inside the
+"Site Administration" block under "Plugins -> Local plugins".
+
+==========
+
+Author: Deds Castillo (deds@solutiongrove.com)
+Copyright (c) 2012 Solution Grove (http://solutiongrove.com)
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
